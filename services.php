@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <!-- Required Meta Tags -->
@@ -118,7 +118,7 @@
         <article class="service-card">
           <div class="service-card-image"><img src="assets/images/course/course-05.jpg" alt="Polytechnic and diploma courses"></div>
           <div class="service-card-content">
-            <h2>Polytechnic &amp; Diploma</h2>
+            <h2>Polytechnic  Diploma</h2>
             <p>Skill-based diploma programs designed for faster career entry.</p>
             <div class="service-card-footer"><span class="service-rating" aria-label="5 out of 5 stars">★★★★★ <small>5.0</small></span><a href="polytechnic-program.php" class="service-button">Explore Service <i class="icon-4"></i></a></div>
           </div>
@@ -155,28 +155,28 @@
       </div>
       <div class="course-catalog-grid">
         <article class="course-catalog-card"><h3>Course</h3><ul>
-          <li>B.Tech / M.Tech</li><li>B.Tech CS</li><li>B.Tech Artificial Intelligence</li><li>B.Tech Data Science</li><li>B.Tech Cyber Security</li><li>B.Tech RF Microwave</li><li>B.Tech Civil Engineering</li><li>Electrical and Electronics Engineering</li><li>Mechanical Engineering</li><li>Aerospace Engineering</li><li>Bioinformatics</li><li>Biomedical Engineering</li><li>Biotechnology</li><li>Chemical Engineering</li><li>Electronics and Communication Engineering</li><li>Electronics and Instrumentation Engineering</li><li>Food Process Engineering</li><li>Information Technology</li><li>Instrumentation &amp; Control Engineering</li><li>Nanotechnology</li><li>Software Engineering</li><li>Aeronautics Engineering</li><li>Petroleum Engineering</li><li>B.Sc. Information Technology</li><li>Pharma D (6 Years)</li><li>Bachelor of Physiotherapy (BPT)</li><li>Bachelor of Naturopathy &amp; Yogic Science (BNYS)</li>
+          <li>B.Tech / M.Tech</li><li>B.Tech CS</li><li>B.Tech Artificial Intelligence</li><li>B.Tech Data Science</li><li>B.Tech Cyber Security</li><li>B.Tech RF Microwave</li><li>B.Tech Civil Engineering</li><li>Electrical and Electronics Engineering</li><li>Mechanical Engineering</li><li>Aerospace Engineering</li><li>Bioinformatics</li><li>Biomedical Engineering</li><li>Biotechnology</li><li>Chemical Engineering</li><li>Electronics and Communication Engineering</li><li>Electronics and Instrumentation Engineering</li><li>Food Process Engineering</li><li>Information Technology</li><li>Instrumentation  Control Engineering</li><li>Nanotechnology</li><li>Software Engineering</li><li>Aeronautics Engineering</li><li>Petroleum Engineering</li><li>B.Sc. Information Technology</li><li>Pharma D (6 Years)</li><li>Bachelor of Physiotherapy (BPT)</li><li>Bachelor of Naturopathy  Yogic Science (BNYS)</li>
         </ul><a href="technical-program.php" class="service-button">View Details <i class="icon-4"></i></a></article>
         <article class="course-catalog-card"><h3>Paramedical Course</h3><ul>
           <li>Pharma D (6 Years)</li><li>BPT (Bachelor Physiotherapy)</li><li>B.Sc. in Optometry Technology</li><li>B.Sc. Forensic Science</li><li>B.Sc. Operation Theater Technology</li><li>B.Sc. in Cardiac Technology</li><li>B.Sc. Anaesthesia Technology</li><li>B.Sc. Medical Lab Technology</li><li>B.Sc. Renal Dialysis Technology</li><li>B.Sc. Neuro Science Technology</li><li>B.Sc. Radiology</li><li>B.Sc. Physician Assistant</li><li>Integrated B Pharma</li><li>ANM</li><li>GNM</li><li>PB Nursing</li><li>B. PHARMACY</li><li>D. PHARMACY</li><li>B.Sc Nursing</li><li>BPH (Bachelor of Public Health)</li><li>B.Sc Medical Microbiology</li>
         </ul><a href="pra-medical-program.php" class="service-button">View Details <i class="icon-4"></i></a></article>
         <article class="course-catalog-card"><h3>Diploma</h3><ul>
-          <li>Polytechnic</li><li>Computer Science</li><li>Electronic &amp; Communication</li><li>Mechanical</li><li>Aeronautical</li><li>Fire &amp; Safety</li><li>Mining</li><li>Diploma Agriculture</li><li>Diploma Yoga</li><li>Agriculture Diploma</li>
+          <li>Polytechnic</li><li>Computer Science</li><li>Electronic  Communication</li><li>Mechanical</li><li>Aeronautical</li><li>Fire  Safety</li><li>Mining</li><li>Diploma Agriculture</li><li>Diploma Yoga</li><li>Agriculture Diploma</li>
         </ul><a href="polytechnic-program.php" class="service-button">View Details <i class="icon-4"></i></a></article>
         <article class="course-catalog-card"><h3>Other Technical Courses</h3><ul>
           <li>Diploma OT-ETC</li><li>Civil</li><li>Electrical</li><li>Photography</li>
         </ul><a href="technical-program.php" class="service-button">View Details <i class="icon-4"></i></a></article>
         <article class="course-catalog-card"><h3>Non-Technical Courses</h3><ul>
-          <li>B.Sc. Agriculture</li><li>B.Sc. (ZBC)</li><li>B.Sc. (PCM)</li><li>B.A. LLB - 5 Yrs</li><li>B.Com LLB - 5 Yrs</li><li>LLB</li><li>B.Sc. Fashion Designing</li><li>BFA Bachelor of Fine Arts</li><li>BHM (Bachelor of Hotel Management)</li><li>BTTM (Bachelor of Travel &amp; Tourism)</li>
+          <li>B.Sc. Agriculture</li><li>B.Sc. (ZBC)</li><li>B.Sc. (PCM)</li><li>B.A. LLB - 5 Yrs</li><li>B.Com LLB - 5 Yrs</li><li>LLB</li><li>B.Sc. Fashion Designing</li><li>BFA Bachelor of Fine Arts</li><li>BHM (Bachelor of Hotel Management)</li><li>BTTM (Bachelor of Travel  Tourism)</li>
         </ul><a href="others-program.php" class="service-button">View Details <i class="icon-4"></i></a></article>
         <article class="course-catalog-card"><h3>Education</h3><ul>
           <li>BBA</li><li>MBA</li><li>BCA</li><li>MCA</li><li>B.Com</li><li>M.Com</li><li>LLM</li><li>B.A. B.Ed.</li><li>B.Ed.</li><li>M.Ed.</li><li>D.Ed. (JBT/BSTC)</li><li>B.P.Ed. (Bachelor of Physical Education)</li><li>D.Ped. (Diploma in Physical Education)</li>
         </ul><a href="education-program.php" class="service-button">View Details <i class="icon-4"></i></a></article>
         <article class="course-catalog-card"><h3>Journalism</h3><ul>
-          <li>Bachelor of Journalism &amp; Mass Communication (BJMC)</li>
+          <li>Bachelor of Journalism  Mass Communication (BJMC)</li>
         </ul><a href="education-program.php" class="service-button">View Details <i class="icon-4"></i></a></article>
       </div>
     </div>
   </section>
 </main>
-<?php include 'include/footer.php'; ?> 
+<?php include 'include/footer.php'; ?>  -->

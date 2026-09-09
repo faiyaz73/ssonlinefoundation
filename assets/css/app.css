@@ -31248,18 +31248,7 @@ only screen and (min-width:992px) and (max-width:1199px) {
     color: var(--color-textSecondary);
     font-size: 14px;
     line-height: 1.45;
-    padding: 8px 0 8px 18px;
-    position: relative;
-}
-
-.course-catalog-card li::before {
-    color: var(--color-primary);
-    content: "\\e91e";
-    font-family: 'icomoon';
-    font-size: 8px;
-    left: 0;
-    position: absolute;
-    top: 12px;
+    padding: 8px 0;
 }
 
 .course-catalog-card .service-button {
