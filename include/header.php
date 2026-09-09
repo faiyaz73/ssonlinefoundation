@@ -112,10 +112,10 @@
 
                                     <li class="has-droupdown about-menu-item"><a href="#">About Us <i class="ri-arrow-down-s-line" aria-hidden="true"></i></a>
                                         <ul class="submenu">
-                                            <li><a href="course-one.html">Empowering students with practical, job-ready skills.</a></li>
-                                            <li><a href="course-two.html">Modern labs and a learning-first environment.</a></li>
-                                            <li><a href="course-three.html">Accreditations & Approvals</a></li>
-                                            <li><a href="course-four.html">Placement support that gets you hired.</a></li>
+                                            <li><a href="empolling-student.php">Empowering students with practical, job-ready skills.</a></li>
+                                            <li><a href="modern-labs-.php">Modern labs and a learning-first environment.</a></li>
+                                            <li><a href="additratation.php">Accreditations & Approvals</a></li>
+                                            <li><a href="placement-support.php">Placement support that gets you hired.</a></li>
                                            
                                         </ul>
                                     </li>
@@ -199,10 +199,10 @@
                                 <li>
                                   
                                     <ul class="submenu mega-sub-menu-01">
-                                            <li><a href="course-one.html">Empowering students with job-ready skills.</a></li>
-                                            <li><a href="course-two.html">Modern labs and a learning-first environment.</a></li>
-                                            <li><a href="course-three.html">Accreditations & Approvals</a></li>
-                                            <li><a href="course-four.html">Placement support that gets you hired.</a></li>
+                                            <li><a href="empolling-student.php">Empowering students with job-ready skills.</a></li>
+                                            <li><a href="modern-labs-.php">Modern labs and a learning-first environment.</a></li>
+                                            <li><a href="additratation.php">Accreditations & Approvals</a></li>
+                                            <li><a href="placement-support.php">Placement support that gets you hired.</a></li>
                                     </ul>
                                 </li>
                                 <li>
