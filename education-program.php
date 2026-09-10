@@ -199,7 +199,7 @@
         }
 
         .education-intro-box h2 span {
-            color: #1976d2;
+            color: #0f0f0f;
         }
 
         .education-intro-box p {
@@ -360,7 +360,7 @@
             display: inline-flex;
             align-items: center;
             gap: 6px;
-            color: #1976d2;
+            color: #d96f06;
             font-size: 13px;
             font-weight: 700;
         }
@@ -381,7 +381,7 @@
         }
 
         .featured-heading span {
-            color: #1976d2;
+            color: #eb7210;
             text-transform: uppercase;
             font-size: 13px;
             font-weight: 700;
@@ -484,7 +484,7 @@
             justify-content: center;
             border-radius: 50%;
             background: #e8f3ff;
-            color: #1976d2;
+            color: #f08f08;
             font-weight: 800;
         }
 
@@ -522,7 +522,7 @@
 
         .education-floating-card strong {
             display: block;
-            color: #1976d2;
+            color: #ec8015;
             font-size: 27px;
         }
 
@@ -591,7 +591,7 @@
             justify-content: center;
             margin: 0 auto 20px;
             background: #fff;
-            color: #1976d2;
+            color: #ef8718;
             font-size: 20px;
             font-weight: 800;
         }
@@ -1809,7 +1809,7 @@
 
                     <h2>
                         Education That Helps You
-                        <span style="color:#1976d2;">
+                        <span style="color:#FF8210;">
                             Move Forward
                         </span>
                     </h2>
@@ -1923,7 +1923,7 @@
                 <div class="education-visual">
 
                     <img
-                        src="assets/images/about/about-01.jpg"
+                        src="../SS Edu Foundation New/images/ss foundation.jpg"
                         alt="SS Education Foundation Students">
 
                     <div class="education-floating-card">

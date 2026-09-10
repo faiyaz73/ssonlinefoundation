@@ -248,7 +248,7 @@
                                        
                                     </li>
                        
-                        <li><a href="https://wa.me/917351786787" target="_blank" rel="noopener noreferrer"><button type="button" class="btn btn-primary"><i class="ri-whatsapp-fill"></i> +917351786787</button></a>
+                        <li><a href="https://wa.me/917351786787" target="_blank" rel="noopener noreferrer"><button type="button"  class="btn btn-primary"><i class="ri-whatsapp-fill"></i> +917351786787</button></a>
                                        
                                     </li>
                     </ul>
