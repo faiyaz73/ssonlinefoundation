@@ -96,7 +96,7 @@
                                             <li class="has-droupdown"><a href="education-program.php">Education</a>
                                             
                                             </li>
-                                            <li><a href="#">Bachelor of Journalism &amp; Mass Communication (BJMC)</a></li>
+                                            <li><a href="bachaler-journlizm.php">Bachelor of Journalism &amp; Mass Communication (BJMC)</a></li>
                                          </ul>
 
                                         </li>

@@ -136,15 +136,16 @@
                                     <ul class="address-list">
                                         <li>
                                             <h5 class="title">Address</h5>
-                                            <p>Studio 76d, Riley Ford, North Michael chester, CF99 6QQ</p>
+                                            <p> A-24, First Floor, A Block, Wazirabad Rd,  Bhajanpura, New Mustafabad, Delhi, 110094</p>
                                         </li>
                                         <li>
                                             <h5 class="title">Email</h5>
-                                            <p><a href="mailto:edublink@example.com">edublink@example.com</a></p>
+                                            <p><a href="mailto:edublink@example.com">info@sseducationsfoundation.com</a></p>
                                         </li>
                                         <li>
                                             <h5 class="title">Phone</h5>
-                                            <p><a href="tel:+0914135548598">(+091) 413 554 8598</a></p>
+                                            <p><a href="tel:+0914135548598">+91 7351786787</a></p>
+                                            <p><a href="tel:+0914135548598"> +91 9837785785</a></p>
                                         </li>
                                     </ul>
                                     <ul class="social-share">

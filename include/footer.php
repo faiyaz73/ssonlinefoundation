@@ -30,9 +30,9 @@
                                 <div class="inner">
                                     <ul class="footer-link link-hover">
                                         <li><a href="about-one.php">About</a></li>
-                                        <li><a href="course-one.html">Courses</a></li>
-                                        <li><a href="team-one.html">Instructor</a></li>
-                                        <li><a href="event-grid.html">Events</a></li>
+                                        <li><a href="services.php">services</a></li>
+                                        <li><a href="instractor.php">Instructor</a></li>
+                                        <li><a href="event.php">Events</a></li>
                                         <li><a href="team-details.html">Instructor Profile</a></li>
                                         <li><a href="purchase-guide.html">Purchase Guide</a></li>
                                     </ul>
@@ -47,7 +47,7 @@
                                         <li><a href="contact.php">Contact Us</a></li>
                                         <li><a href="gallery-grid.html">Gallery</a></li>
                                         <li><a href="blog-standard.html">News & Articles</a></li>
-                                        <li><a href="faq.html">FAQ's</a></li>
+                                        <li><a href="faq.php">FAQ's</a></li>
                                         <li><a href="my-account.html">Sign In/Registration</a></li>
                                         <li><a href="coming-soon.html">Coming Soon</a></li>
                                     </ul>
