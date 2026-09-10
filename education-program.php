@@ -86,8 +86,8 @@
             position: relative;
             overflow: hidden;
             background:
-                linear-gradient(135deg, rgba(8, 48, 107, 0.96), rgba(18, 112, 183, 0.88)),
-                url("assets/images/banner/banner-01.jpg");
+                linear-gradient(135deg, rgba(235, 123, 19, 0.57), rgba(226, 129, 32, 0.43)),
+                url("../SS Edu Foundation New/images/banner1.jpg");
             background-size: cover;
             background-position: center;
             padding: 105px 0 95px;
@@ -184,7 +184,7 @@
 
         .education-intro-box .pre-title {
             display: inline-block;
-            color: #1976d2;
+            color: #FF8210;
             font-size: 14px;
             font-weight: 700;
             text-transform: uppercase;
@@ -237,10 +237,10 @@
             align-items: center;
             justify-content: center;
             border-radius: 50%;
-            background: #1976d2;
+            background: #FF8210;
             color: #fff;
             font-size: 24px;
-            box-shadow: 0 8px 25px rgba(25,118,210,0.25);
+            box-shadow: 0 8px 25px #FF8210;
         }
 
         .education-section-heading h3 {
@@ -256,7 +256,7 @@
         }
 
         .education-view-all {
-            color: #1976d2;
+            color: #FF8210;
             font-weight: 700;
             font-size: 14px;
         }
@@ -279,7 +279,7 @@
         .education-course-card:hover {
             transform: translateY(-8px);
             box-shadow: 0 20px 45px rgba(20, 45, 80, 0.14);
-            border-color: rgba(25,118,210,0.25);
+            border-color: #FF8210;
         }
 
         .education-course-image {
@@ -303,7 +303,7 @@
             position: absolute;
             top: 15px;
             left: 15px;
-            background: #1976d2;
+            background: #FF8210;
             color: #fff;
             padding: 6px 13px;
             border-radius: 20px;
@@ -316,7 +316,7 @@
         }
 
         .education-course-content .course-type {
-            color: #1976d2;
+            color: #FF8210;
             font-size: 12px;
             font-weight: 700;
             text-transform: uppercase;
@@ -444,7 +444,7 @@
         }
 
         .why-content .pre-title {
-            color: #1976d2;
+            color: #FF8210;
             font-size: 14px;
             font-weight: 700;
             text-transform: uppercase;
@@ -490,7 +490,7 @@
 
         .why-list strong {
             display: block;
-            color: #162b49;
+            color: #FF8210;
             margin-bottom: 3px;
         }
 
@@ -538,13 +538,22 @@
 
         .education-journey {
             padding: 85px 0;
-            background: #0c2d57;
+            background: #df8908;
+             background:
+                linear-gradient(135deg, rgba(235, 123, 19, 0.57), rgba(226, 129, 32, 0.43)),
+                url("../SS Edu Foundation New/images/banner2.jpg");
+              background-size: cover;
+              background-position: center;
+              background-repeat: no-repeat;
         }
 
         .journey-heading {
             text-align: center;
             color: #fff;
             margin-bottom: 50px;
+            /* background:
+                linear-gradient(135deg, rgba(235, 123, 19, 0.57), rgba(226, 129, 32, 0.43)),
+                url("../SS Edu Foundation New/images/banner2.jpg"); */
         }
 
         .journey-heading span {
@@ -617,7 +626,7 @@
 
         .stat-box strong {
             display: block;
-            color: #1976d2;
+            color: #FF8210;
             font-size: 40px;
             font-weight: 800;
         }
@@ -640,7 +649,7 @@
         .education-cta-box {
             position: relative;
             overflow: hidden;
-            background: linear-gradient(135deg, #1976d2, #0c4f99);
+            background: linear-gradient(135deg, #d28219, #eea639);
             border-radius: 25px;
             padding: 60px;
             text-align: center;
@@ -678,7 +687,7 @@
             align-items: center;
             gap: 8px;
             background: #fff;
-            color: #1976d2;
+            color: #FF8210;
             padding: 14px 28px;
             border-radius: 30px;
             font-weight: 700;
@@ -832,7 +841,7 @@
 
             <h2>
                 Choose the Right Course for Your
-                <span>Career</span>
+                <span style="color:#FF8210">Career</span>
             </h2>
 
             <p>
@@ -1142,7 +1151,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-05.jpg"
+                                src="../SS Edu Foundation New/images/banner1.jpg"
                                 alt="B.Com Course">
 
                         </a>
@@ -1686,7 +1695,7 @@
 
         <div class="featured-heading">
 
-            <span>
+            <span style="color:#FF8210">
                 Explore Your Options
             </span>
 
