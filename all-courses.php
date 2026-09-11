@@ -127,7 +127,7 @@
                         <label>Grid</label>
                         <ul class="switcher-btn">
                             <li><a href="course-one.html" class="active"><i class="icon-53"></i></a></li>
-                            <li><a href="course-four.html" class=""><i class="icon-54"></i></a></li>
+                            <li><a href="course-four.php" class=""><i class="icon-54"></i></a></li>
                         </ul>
                     </div>
                     <div class="edu-sorting">
@@ -158,14 +158,14 @@
                                 </div>
                             </div>
                             <div class="content">
-                                <span class="course-level">B.TECH / M.TECH</span>
+                                <span class="course-level">Engineering Courses </span>
                                 <h6 class="title">
                                     <a href="course-details.html">B.Tech CS</a>
                                 </h6>
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -179,7 +179,7 @@
                                 <button class="wishlist-btn" type="button" aria-label="Add to wishlist">
                                     <i class="icon-22"></i>
                                 </button>
-                                <span class="course-level">B.TECH / M.TECH</span>
+                                <span class="course-level">Engineering Courses </span>
                                 <h6 class="title">
                                     <a href="course-details.html">B.Tech CS</a>
                                 </h6>
@@ -187,9 +187,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -215,7 +215,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -237,9 +237,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -265,7 +265,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -287,9 +287,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -315,7 +315,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -337,9 +337,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -365,7 +365,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -387,9 +387,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -415,7 +415,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -437,9 +437,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -465,7 +465,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -487,9 +487,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -515,7 +515,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -537,9 +537,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -565,7 +565,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -587,9 +587,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -615,7 +615,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -637,9 +637,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -665,7 +665,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -687,9 +687,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -715,7 +715,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -737,9 +737,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -765,7 +765,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -787,9 +787,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -815,7 +815,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -837,9 +837,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -865,7 +865,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -887,9 +887,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -915,7 +915,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -937,9 +937,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -965,7 +965,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -987,9 +987,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1015,7 +1015,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1037,9 +1037,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1065,7 +1065,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1087,9 +1087,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1115,7 +1115,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1137,9 +1137,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1165,7 +1165,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1187,9 +1187,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1215,7 +1215,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1237,9 +1237,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1265,7 +1265,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1287,9 +1287,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1315,7 +1315,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1337,9 +1337,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1365,7 +1365,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1387,9 +1387,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1415,7 +1415,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1437,9 +1437,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1465,7 +1465,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1487,9 +1487,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1515,7 +1515,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1537,9 +1537,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1565,7 +1565,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1587,9 +1587,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1615,7 +1615,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1637,9 +1637,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1665,7 +1665,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1687,9 +1687,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1715,7 +1715,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1737,9 +1737,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1765,7 +1765,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1787,9 +1787,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1815,7 +1815,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1837,9 +1837,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1865,7 +1865,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1887,9 +1887,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1915,7 +1915,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1937,9 +1937,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -1965,7 +1965,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -1987,9 +1987,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2015,7 +2015,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2037,9 +2037,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2065,7 +2065,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2087,9 +2087,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2115,7 +2115,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2137,9 +2137,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2165,7 +2165,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2187,9 +2187,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2215,7 +2215,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2237,9 +2237,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2265,7 +2265,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2287,9 +2287,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2315,7 +2315,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2337,9 +2337,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2365,7 +2365,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2387,9 +2387,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2415,7 +2415,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2437,9 +2437,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2465,7 +2465,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2487,9 +2487,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2515,7 +2515,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2537,9 +2537,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2565,7 +2565,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2587,9 +2587,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">se <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2615,7 +2615,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2637,9 +2637,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2665,7 +2665,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2687,9 +2687,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2715,7 +2715,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2737,9 +2737,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2765,7 +2765,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2787,9 +2787,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2815,7 +2815,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2837,9 +2837,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2865,7 +2865,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2887,9 +2887,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2915,7 +2915,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2937,9 +2937,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -2965,7 +2965,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -2987,9 +2987,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3015,7 +3015,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3037,9 +3037,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3065,7 +3065,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3087,9 +3087,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3115,7 +3115,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3137,9 +3137,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3165,7 +3165,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3187,9 +3187,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3215,7 +3215,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3237,9 +3237,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3265,7 +3265,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3287,9 +3287,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3315,7 +3315,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3337,9 +3337,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3365,7 +3365,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3387,9 +3387,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3415,7 +3415,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3437,9 +3437,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3465,7 +3465,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3487,9 +3487,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3515,7 +3515,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3537,9 +3537,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3565,7 +3565,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3587,9 +3587,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3615,7 +3615,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3637,9 +3637,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3665,7 +3665,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3687,9 +3687,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3715,7 +3715,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3737,9 +3737,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3765,7 +3765,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3787,9 +3787,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3815,7 +3815,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3837,9 +3837,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3865,7 +3865,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3887,9 +3887,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3915,7 +3915,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3937,9 +3937,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -3965,7 +3965,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -3987,9 +3987,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>
@@ -4015,7 +4015,7 @@
                                 <div class="course-price">Enquire Now</div>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
                             </div>
                         </div>
@@ -4037,9 +4037,9 @@
                                 <p>Get complete information about eligibility, admission process, duration and career opportunities for this course.</p>
                                 <ul class="course-meta">
                                     <li><i class="icon-24"></i>Course Details</li>
-                                    <li><i class="icon-25"></i>Apply Now</li>
+                                    <li><i class="icon-25"></i>Enquiry Now</li>
                                 </ul>
-                                <a href="course-details.html" class="edu-btn btn-secondary btn-small">View Course <i class="icon-4"></i></a>
+                                <a href="contact.php" class="edu-btn btn-secondary btn-small">Contact Us <i class="icon-4"></i></a>
                             </div>
                         </div>
                     </div>

@@ -59,7 +59,7 @@
 
         .section-tag {
             display: inline-block;
-            color: #f58220;
+            color: #D0A44B;
             font-size: 14px;
             font-weight: 700;
             letter-spacing: 1.5px;
@@ -122,7 +122,7 @@
         }
 
         .hero-content h1 span {
-            color: #f58220;
+            color: #D0A44B;
             position: relative;
         }
 
@@ -133,7 +133,7 @@
             width: 100%;
             left: 0;
             bottom: -4px;
-            background: #f58220;
+            background: #D0A44B;
             border-radius: 10px;
             opacity: .25;
         }
