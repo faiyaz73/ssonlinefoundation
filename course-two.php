@@ -144,7 +144,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-08.jpg" alt="Course Meta">
+                                        <img src="images/management.jpg" alt="Public Administration">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -180,7 +180,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-09.jpg" alt="Course Meta">
+                                        <img src="images/management.jpg" alt="Major in Economics">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -216,7 +216,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-10.jpg" alt="Course Meta">
+                                        <img src="images/management.jpg" alt="Business Studies">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online Only</span>
@@ -252,7 +252,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-32.jpg" alt="Course Meta">
+                                        <img src="images/commerce.jpg" alt="Corporate Finance">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -288,7 +288,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-33.jpg" alt="Course Meta">
+                                        <img src="images/management.jpg" alt="Business Administration">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -324,7 +324,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-34.jpg" alt="Course Meta">
+                                        <img src="images/commerce.jpg" alt="Financial Economics">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online Only</span>
@@ -360,7 +360,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-35.jpg" alt="Course Meta">
+                                        <img src="images/data-science.jpg" alt="Data Science">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -396,7 +396,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-36.jpg" alt="Course Meta">
+                                        <img src="images/management.jpg" alt="System Management">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -432,7 +432,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-37.jpg" alt="Course Meta">
+                                        <img src="images/computer-science.jpg" alt="Computer Science">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online Only</span>
@@ -468,7 +468,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-38.jpg" alt="Course Meta">
+                                        <img src="images/fine-arts.jpg" alt="Arts in Landscape">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -504,7 +504,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-39.jpg" alt="Course Meta">
+                                        <img src="images/journalism.jpg" alt="Media and Communication">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online + Onsite</span>
@@ -540,7 +540,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-40.jpg" alt="Course Meta">
+                                        <img src="images/management.jpg" alt="Design Management">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>Online Only</span>

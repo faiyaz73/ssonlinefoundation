@@ -134,7 +134,7 @@
 
 .old-price {
     font-size: 15px;
-    color: #888;
+    color:#FD9005;
     text-decoration: line-through;
     font-weight: 600;
 }
@@ -166,8 +166,8 @@
 
 .actual-fee {
     font-size: 13px;
-    color: #666;
-    font-weight: 500;
+    color:white;
+    font-weight: 700;
     width: 100%;
 }
 
@@ -189,33 +189,769 @@
     flex-wrap: wrap;
     gap: 10px;
 }
+.edu-breadcrumb justify-content-center li a{
+    color:white;
+    text-decoration: none;
+}
+.edu-breadcrumb justify-content-center li a:hover{
+    color:white;
+    text-decoration: none;
+}
+.edu-breadcrumb justify-content-center li a:active{
+    color:white;
+    text-decoration: none;
+}
 </style>
 
 <?php include 'include/header.php'; ?>
+<?php require_once __DIR__ . '/include/course-images.php'; ?>
 
-    <div class="edu-breadcrumb-area">
-        <div class="container">
-            <div class="breadcrumb-inner">
-                <div class="page-title">
-                    <h1 class="title">All Courses</h1>
-                </div>
-                <ul class="edu-breadcrumb">
-                    <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
-                    <li class="separator"><i class="icon-angle-right"></i></li>
-                    <li class="breadcrumb-item"><a href="#">Courses</a></li>
-                    <li class="separator"><i class="icon-angle-right"></i></li>
-                    <li class="breadcrumb-item active" aria-current="page">All Courses</li>
-                </ul>
-            </div>
-        </div>
-        <ul class="shape-group">
-            <li class="shape-1"><span></span></li>
-            <li class="shape-2 scene"><img data-depth="2" src="assets/images/about/shape-13.png" alt="shape"></li>
-            <li class="shape-3 scene"><img data-depth="-2" src="assets/images/about/shape-15.png" alt="shape"></li>
-            <li class="shape-4"><span></span></li>
-            <li class="shape-5 scene"><img data-depth="2" src="assets/images/about/shape-07.png" alt="shape"></li>
-        </ul>
+  <!-- =========================
+     ALL COURSES HERO
+========================= -->
+<section class="edu-breadcrumb-area all-courses-hero">
+
+    <!-- Background Video -->
+    <div class="hero-video">
+        <video autoplay muted loop playsinline>
+            <source src="images/all courses.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+        </video>
     </div>
+
+    <!-- Dark / Gradient Overlay -->
+    <div class="hero-overlay"></div>
+
+    <!-- Decorative Shapes -->
+    <div class="hero-shapes">
+        <span class="shape shape-1"></span>
+        <span class="shape shape-2"></span>
+        <span class="shape shape-3"></span>
+        <span class="shape shape-4"></span>
+    </div>
+
+    <!-- Content -->
+    <div class="container position-relative">
+        <div class="row align-items-center justify-content-center">
+
+            <div class="col-lg-10 text-center">
+
+                <div class="hero-content">
+
+                    <!-- Small Badge -->
+                    <div class="hero-badge">
+                        <span class="badge-dot"></span>
+                        Explore Your Future
+                    </div>
+
+                    <!-- Main Heading -->
+                    <h1 class="hero-title">
+                        All <span>Courses</span>
+                    </h1>
+
+                    <!-- Description -->
+                    <p class="hero-description">
+                        Discover the right course for your career and
+                        build the skills you need for a successful future.
+                    </p>
+
+                    <!-- Breadcrumb -->
+                    <ul class="edu-breadcrumb justify-content-center">
+
+                        <li class="breadcrumb-item">
+                            <a href="index-2.html">Home</a>
+                        </li>
+
+                        <li class="separator">
+                            <i class="icon-angle-right"></i>
+                        </li>
+
+                        <li class="breadcrumb-item">
+                            <a href="#">Courses</a>
+                        </li>
+
+                        <li class="separator">
+                            <i class="icon-angle-right"></i>
+                        </li>
+
+                        <li class="breadcrumb-item active"
+                            aria-current="page">
+                            All Courses
+                        </li>
+
+                    </ul>
+
+                    <!-- CTA Buttons -->
+                    <div class="hero-buttons">
+
+                        <a href="#courses" class="btn btn-primary hero-btn">
+                            Explore Courses
+                            <i class="icon-arrow-right-line"></i>
+                        </a>
+
+                        <a href="contact.php"
+                           class="btn btn-outline-light hero-btn-outline">
+                            Contact Us
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Bottom Curve -->
+    <div class="hero-bottom-shape">
+        <svg viewBox="0 0 1440 120"
+             preserveAspectRatio="none">
+            <path d="M0,80 C360,140 1080,0 1440,70 L1440,120 L0,120 Z">
+            </path>
+        </svg>
+    </div>
+
+</section>
+
+
+<!-- =========================
+     HERO CSS
+========================= -->
+
+<style>
+
+    /* Main Hero */
+    .all-courses-hero {
+        position: relative;
+        min-height: 650px;
+        height: 75vh;
+        max-height: 800px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        overflow: hidden;
+
+        color: #fff;
+        isolation: isolate;
+    }
+
+
+    /* Background Video */
+    .hero-video {
+        position: absolute;
+        inset: 0;
+
+        width: 100%;
+        height: 100%;
+
+        z-index: -3;
+        overflow: hidden;
+    }
+
+    .hero-video video {
+        width: 100%;
+        height: 100%;
+
+        object-fit: cover;
+        object-position: center;
+
+        animation: videoZoom 18s ease-in-out infinite alternate;
+    }
+
+
+    /* Video Zoom Animation */
+    @keyframes videoZoom {
+
+        0% {
+            transform: scale(1);
+        }
+
+        100% {
+            transform: scale(1.08);
+        }
+
+    }
+
+
+    /* Overlay */
+    .hero-overlay {
+        position: absolute;
+        inset: 0;
+
+        z-index: -2;
+
+        background:
+            linear-gradient(
+                135deg,
+                rgba(0, 0, 0, 0.92),
+                rgba(106, 43, 4, 0.72),
+                rgba(19, 14, 9, 0.88)
+            );
+    }
+
+
+    /* Additional Glow */
+    .hero-overlay::after {
+        content: "";
+
+        position: absolute;
+        width: 500px;
+        height: 500px;
+
+        top: -200px;
+        right: -150px;
+
+        border-radius: 50%;
+
+        background: rgba(174, 70, 9, 0.15);
+
+        filter: blur(20px);
+    }
+
+
+    /* Content */
+    .hero-content {
+        position: relative;
+        z-index: 5;
+
+        padding: 80px 0;
+
+        animation: heroContent 1s ease forwards;
+    }
+
+
+    @keyframes heroContent {
+
+        from {
+            opacity: 0;
+            transform: translateY(40px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+    }
+
+
+    /* Badge */
+    .hero-badge {
+
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+
+        padding: 9px 20px;
+
+        margin-bottom: 20px;
+
+        border: 1px solid rgba(255,255,255,.35);
+
+        border-radius: 50px;
+
+        background: rgba(255,255,255,.10);
+
+        backdrop-filter: blur(10px);
+
+        font-size: 14px;
+        font-weight: 600;
+
+        letter-spacing: .5px;
+
+        animation: fadeDown 1s ease .2s both;
+    }
+
+
+    .badge-dot {
+
+        width: 9px;
+        height: 9px;
+
+        border-radius: 50%;
+
+        background: #ffb703;
+
+        box-shadow:
+            0 0 0 5px rgba(255,183,3,.15);
+
+        animation: pulseDot 1.8s infinite;
+    }
+
+
+    @keyframes pulseDot {
+
+        0% {
+            box-shadow:
+                0 0 0 0 rgba(255,183,3,.5);
+        }
+
+        70% {
+            box-shadow:
+                0 0 0 10px rgba(255,183,3,0);
+        }
+
+        100% {
+            box-shadow:
+                0 0 0 0 rgba(255,183,3,0);
+        }
+
+    }
+
+
+    /* Heading */
+    .hero-title {
+
+        margin: 0 0 20px;
+
+        color: #fff;
+
+        font-size: clamp(48px, 7vw, 86px);
+
+        font-weight: 800;
+
+        line-height: 1.05;
+
+        letter-spacing: -2px;
+
+        text-shadow:
+            0 5px 30px rgba(0,0,0,.3);
+
+        animation: fadeDown 1s ease .35s both;
+    }
+
+
+    .hero-title span {
+
+        color: #ffb703;
+
+        position: relative;
+
+        display: inline-block;
+    }
+
+
+    /* Underline Animation */
+    .hero-title span::after {
+
+        content: "";
+
+        position: absolute;
+
+        left: 5%;
+        bottom: -8px;
+
+        width: 90%;
+        height: 4px;
+
+        border-radius: 5px;
+
+        background: #ffb703;
+
+        transform: scaleX(0);
+
+        transform-origin: left;
+
+        animation:
+            underlineShow 1s ease 1.2s forwards;
+    }
+
+
+    @keyframes underlineShow {
+
+        to {
+            transform: scaleX(1);
+        }
+
+    }
+
+
+    /* Description */
+    .hero-description {
+
+        max-width: 680px;
+
+        margin: 0 auto 28px;
+
+        color: rgba(255,255,255,.88);
+
+        font-size: 18px;
+
+        line-height: 1.7;
+
+        animation: fadeDown 1s ease .5s both;
+    }
+
+
+    @keyframes fadeDown {
+
+        from {
+            opacity: 0;
+            transform: translateY(-20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+    }
+
+
+    /* Breadcrumb */
+    .all-courses-hero .edu-breadcrumb {
+
+        display: flex;
+
+        align-items: center;
+
+        flex-wrap: wrap;
+
+        gap: 8px;
+
+        margin: 0 0 30px;
+
+        padding: 0;
+
+        list-style: none;
+
+        animation: fadeUp 1s ease .7s both;
+    }
+
+
+    .all-courses-hero .breadcrumb-item {
+
+        color: rgba(255,255,255,.85);
+
+        font-size: 15px;
+    }
+
+
+    .all-courses-hero .breadcrumb-item a {
+
+        color:white;
+
+        text-decoration: none;
+
+        transition: .3s ease;
+    }
+
+
+    .all-courses-hero .breadcrumb-item a:hover {
+
+        color: #ffb703;
+    }
+
+
+    .all-courses-hero .breadcrumb-item.active {
+
+        color: #ffb703;
+
+        font-weight: 600;
+    }
+
+
+    .all-courses-hero .separator {
+
+        color: rgba(255,255,255,.5);
+    }
+
+
+    /* Buttons */
+    .hero-buttons {
+
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+
+        gap: 14px;
+
+        animation: fadeUp 1s ease .9s both;
+    }
+
+
+    .hero-btn,
+    .hero-btn-outline {
+
+        min-width: 170px;
+
+        padding: 13px 25px;
+
+        border-radius: 50px;
+
+        font-weight: 600;
+
+        transition: all .35s ease;
+    }
+
+
+    .hero-btn {
+
+        border: none;
+
+        background: #ffb703;
+
+        color: #111;
+
+        box-shadow:
+            0 10px 30px rgba(0,0,0,.25);
+    }
+
+
+    .hero-btn:hover {
+
+        background: #fff;
+
+        color: #111;
+
+        transform: translateY(-4px);
+
+        box-shadow:
+            0 15px 35px rgba(0,0,0,.3);
+    }
+
+
+    .hero-btn-outline {
+
+        border: 1px solid rgba(255,255,255,.7);
+
+        background: rgba(255,255,255,.08);
+
+        backdrop-filter: blur(8px);
+    }
+
+
+    .hero-btn-outline:hover {
+
+        background: #fff;
+
+        color: #111;
+
+        transform: translateY(-4px);
+    }
+
+
+    @keyframes fadeUp {
+
+        from {
+            opacity: 0;
+            transform: translateY(25px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+    }
+
+
+    /* =========================
+       FLOATING SHAPES
+    ========================= */
+
+    .hero-shapes {
+
+        position: absolute;
+
+        inset: 0;
+
+        pointer-events: none;
+
+        z-index: 1;
+    }
+
+
+    .shape {
+
+        position: absolute;
+
+        display: block;
+
+        border-radius: 50%;
+
+        border: 1px solid rgba(255,255,255,.15);
+
+        background: rgba(255,255,255,.03);
+
+        backdrop-filter: blur(2px);
+    }
+
+
+    .shape-1 {
+
+        width: 150px;
+        height: 150px;
+
+        left: 7%;
+        top: 15%;
+
+        animation:
+            floating 7s ease-in-out infinite;
+    }
+
+
+    .shape-2 {
+
+        width: 90px;
+        height: 90px;
+
+        right: 10%;
+        top: 22%;
+
+        animation:
+            floating 5s ease-in-out infinite reverse;
+    }
+
+
+    .shape-3 {
+
+        width: 220px;
+        height: 220px;
+
+        right: -70px;
+        bottom: 15%;
+
+        animation:
+            floating 9s ease-in-out infinite;
+    }
+
+
+    .shape-4 {
+
+        width: 60px;
+        height: 60px;
+
+        left: 15%;
+        bottom: 18%;
+
+        animation:
+            floating 6s ease-in-out infinite reverse;
+    }
+
+
+    @keyframes floating {
+
+        0%,
+        100% {
+            transform: translateY(0) rotate(0deg);
+        }
+
+        50% {
+            transform: translateY(-25px) rotate(15deg);
+        }
+
+    }
+
+
+    /* Bottom Curve */
+    .hero-bottom-shape {
+
+        position: absolute;
+
+        bottom: -1px;
+
+        left: 0;
+
+        width: 100%;
+
+        height: 100px;
+
+        z-index: 4;
+
+        pointer-events: none;
+    }
+
+
+    .hero-bottom-shape svg {
+
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .hero-bottom-shape path {
+
+        fill: #fff;
+    }
+
+
+    /* =========================
+       MOBILE
+    ========================= */
+
+    @media (max-width: 767px) {
+
+        .all-courses-hero {
+
+            min-height: 600px;
+
+            height: auto;
+
+        }
+
+
+        .hero-content {
+
+            padding: 100px 15px 120px;
+        }
+
+
+        .hero-title {
+
+            font-size: 48px;
+
+            letter-spacing: -1px;
+        }
+
+
+        .hero-description {
+
+            font-size: 15px;
+
+            line-height: 1.6;
+        }
+
+
+        .hero-buttons {
+
+            flex-direction: column;
+
+        }
+
+
+        .hero-btn,
+        .hero-btn-outline {
+
+            width: 100%;
+
+            max-width: 260px;
+        }
+
+
+        .shape-1 {
+
+            width: 80px;
+            height: 80px;
+
+            left: -30px;
+        }
+
+
+        .shape-3 {
+
+            width: 120px;
+            height: 120px;
+        }
+
+    }
+
+</style>
 
     <!--=====================================-->
     <!--=        Courses Area Start         =-->
@@ -345,14 +1081,17 @@
                     $courseName = htmlspecialchars($course['name'], ENT_QUOTES, 'UTF-8');
                     $courseCategory = htmlspecialchars($course['category'], ENT_QUOTES, 'UTF-8');
                     $courseFee = htmlspecialchars($course['fee'], ENT_QUOTES, 'UTF-8');
-                    $courseImage = sprintf('course-%02d.jpg', 7 + ($index % 25));
+                    $courseImagePath = sse_course_image($course['name']);
+                    $courseImage = htmlspecialchars($courseImagePath . '?v=2', ENT_QUOTES, 'UTF-8');
                     $delay = 100 + (($index % 4) * 50);
                 ?>
                 <div class="col-md-6 col-lg-4 col-xl-3" data-sal-delay="<?= $delay; ?>" data-sal="slide-up" data-sal-duration="800">
                     <div class="edu-course course-style-1 course-box-shadow hover-button-bg-white">
                         <div class="inner">
                             <div class="thumbnail">
-                                <img src="assets/images/course/<?= $courseImage; ?>" alt="<?= $courseName; ?>">
+                            <img src="<?= $courseImage; ?>" alt="<?= $courseName; ?>">
+
+                                
                                 <div class="time-top">
                                     <span class="duration"><i class="icon-61"></i>Admissions Open</span>
                                 </div>
@@ -367,7 +1106,7 @@
                                         <span class="old-price">₹<?= $courseFee; ?></span>
                                         <span class="free-price">FREE</span>
                                     </div>
-                                    <span class="scholarship-badge">🎓 100% Scholarship</span>
+                                    <span class="scholarship-badge">🎓 100% Fees Support</span>
                                     <span class="actual-fee">Actual Fee: <strong>₹<?= $courseFee; ?></strong> — Fully Waived Under Scholarship</span>
                                 </div>
                                 <p>Learn practical skills and build a strong foundation for your academic and professional goals.</p>
@@ -392,7 +1131,7 @@
                                         <span class="old-price">₹<?= $courseFee; ?></span>
                                         <span class="free-price">FREE</span>
                                     </div>
-                                    <span class="scholarship-badge">🎓 100% Scholarship</span>
+                                    <span class="scholarship-badge">🎓 100% Fees Support</span>
                                     <span class="actual-fee">Actual Fee: <strong>₹<?= $courseFee; ?></strong> — Fully Waived Under Scholarship</span>
                                 </div>
                                 <p>Learn practical skills and build a strong foundation for your academic and professional goals.</p>

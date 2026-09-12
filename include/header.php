@@ -13,6 +13,7 @@
 
     <!-- Site Stylesheet -->
     <link rel="stylesheet" href="assets/css/app.css">
+     <link rel="shortcut icon" type="image/x-icon" href="../SSEDUFDN/images/favicon.png">
 
 </head>
 
@@ -82,6 +83,20 @@
                                             <li class="has-droupdown"><a href="technical-program.php">Course</a>
                                                
                                             </li>
+                                            <li class="has-droupdown"><a href="management-program.php">Management Course</a>
+                                               
+                                            <li class="has-droupdown"><a href="law-program.php">Law Program
+                                            </a>
+                                            <li class="has-droupdown"><a href="nursing-program.php"> Nursing Program
+
+                                            </a>
+                                               
+                                            </li>
+                                            <li class="has-droupdown"><a href="polytechnic-program.php"> Polytechnic Program
+
+                                            </a>
+                                               
+                                            </li>
                                             <li class="has-droupdown"><a href="pra-medical-program.php">Paramedical Course</a>
                                                 
                                             </li>
@@ -96,7 +111,7 @@
                                             <li class="has-droupdown"><a href="education-program.php">Education</a>
                                             
                                             </li>
-                                            <li><a href="bachaler-journlizm.php">Bachelor of Journalism &amp; Mass Communication (BJMC)</a></li>
+                                            <!-- <li><a href="bachaler-journlizm.php">Bachelor of Journalism &amp; Mass Communication (BJMC)</a></li> -->
                                          </ul>
 
                                         </li>

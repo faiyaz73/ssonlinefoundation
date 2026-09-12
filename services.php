@@ -84,7 +84,7 @@
 
       <div class="services-grid">
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-01.jpg" alt="Career counselling"></div>
+          <div class="service-card-image"><img src="images/education.jpg" alt="Career counselling"></div>
           <div class="service-card-content">
             <h2>Career Counselling</h2>
             <p>Personal guidance to choose the right course and career path.</p>
@@ -92,7 +92,7 @@
           </div>
         </article>
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-02.jpg" alt="University admission support"></div>
+          <div class="service-card-image"><img src="images/education.jpg" alt="University admission support"></div>
           <div class="service-card-content">
             <h2>University Admission</h2>
             <p>Support with applications, documentation, and admission counselling.</p>
@@ -100,7 +100,7 @@
           </div>
         </article>
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-03.jpg" alt="Technical courses"></div>
+          <div class="service-card-image"><img src="images/engineering.jpg" alt="Technical courses"></div>
           <div class="service-card-content">
             <h2>Technical Courses</h2>
             <p>Industry-focused technical programs for practical career growth.</p>
@@ -108,7 +108,7 @@
           </div>
         </article>
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-04.jpg" alt="Paramedical courses"></div>
+          <div class="service-card-image"><img src="images/nursing.jpg" alt="Paramedical courses"></div>
           <div class="service-card-content">
             <h2>Paramedical Courses</h2>
             <p>Career-ready healthcare programs with structured academic support.</p>
@@ -116,7 +116,7 @@
           </div>
         </article>
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-05.jpg" alt="Polytechnic and diploma courses"></div>
+          <div class="service-card-image"><img src="images/polytechnic.jpg" alt="Polytechnic and diploma courses"></div>
           <div class="service-card-content">
             <h2>Polytechnic  Diploma</h2>
             <p>Skill-based diploma programs designed for faster career entry.</p>
@@ -124,7 +124,7 @@
           </div>
         </article>
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-06.jpg" alt="Management education"></div>
+          <div class="service-card-image"><img src="images/management.jpg" alt="Management education"></div>
           <div class="service-card-content">
             <h2>Management Education</h2>
             <p>Build business, leadership, and professional management skills.</p>
@@ -132,7 +132,7 @@
           </div>
         </article>
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-07.jpg" alt="Law education"></div>
+          <div class="service-card-image"><img src="images/law.jpg" alt="Law education"></div>
           <div class="service-card-content">
             <h2>Law Education</h2>
             <p>Explore legal education pathways with focused academic guidance.</p>
@@ -140,7 +140,7 @@
           </div>
         </article>
         <article class="service-card">
-          <div class="service-card-image"><img src="assets/images/course/course-08.jpg" alt="Nursing education"></div>
+          <div class="service-card-image"><img src="images/nursing.jpg" alt="Nursing education"></div>
           <div class="service-card-content">
             <h2>Nursing Education</h2>
             <p>Start a meaningful healthcare career with nursing programs and support.</p>

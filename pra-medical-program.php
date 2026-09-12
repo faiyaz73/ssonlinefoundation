@@ -38,6 +38,7 @@
 
     <!-- Canonical URL -->
     <link rel="canonical" href="https://sseducationsfoundation.com/">
+     <link rel="shortcut icon" type="image/x-icon" href="../SSEDUFDN/images/favicon.png">
 
     <!-- Schema.org Organization -->
     <script type="application/ld+json">
@@ -116,8 +117,8 @@
 
                             <div class="banner-btn">
 
-                                <a href="courses.php" class="edu-btn">
-                                    Explore Courses
+                                <a href="contact.php" class="edu-btn">
+                                   Contact Us
                                     <i class="icon-4"></i>
                                 </a>
 
@@ -150,8 +151,8 @@
 
                             <div class="banner-btn">
 
-                                <a href="courses.php" class="edu-btn">
-                                    Explore Courses
+                                <a href="contact.php" class="edu-btn">
+                                   Contact Us
                                     <i class="icon-4"></i>
                                 </a>
 
@@ -184,8 +185,8 @@
 
                             <div class="banner-btn">
 
-                                <a href="courses.php" class="edu-btn">
-                                    Explore Courses
+                                <a href="contact.php" class="edu-btn">
+                                   Contact Us
                                     <i class="icon-4"></i>
                                 </a>
 
@@ -1053,7 +1054,7 @@
 
                             <a href="course-details.php">
 
-                                <img src="assets/images/course/course-49.jpg"
+                                <img src="images/pharmacy.jpg"
                                     alt="Pharma D Course">
 
                             </a>
@@ -1123,7 +1124,7 @@
 
                             <a href="course-details.php">
 
-                                <img src="assets/images/course/course-50.jpg"
+                                <img src="images/physiotherapy.jpg"
                                     alt="BPT Physiotherapy Course">
 
                             </a>
@@ -1193,7 +1194,7 @@
 
                             <a href="course-details.php">
 
-                                <img src="assets/images/course/course-51.jpg"
+                                <img src="images/medical-lab.jpg"
                                     alt="B.Sc Medical Lab Technology">
 
                             </a>
@@ -1263,7 +1264,7 @@
 
                             <a href="course-details.php">
 
-                                <img src="assets/images/course/course-52.jpg"
+                                <img src="images/nursing.jpg"
                                     alt="B.Sc Nursing">
 
                             </a>
@@ -1333,7 +1334,7 @@
 
                             <a href="course-details.php">
 
-                                <img src="assets/images/course/course-53.jpg"
+                                <img src="images/pharmacy.jpg"
                                     alt="B Pharmacy">
 
                             </a>
@@ -1403,7 +1404,7 @@
 
                             <a href="course-details.php">
 
-                                <img src="assets/images/course/course-54.jpg"
+                                <img src="images/nursing.jpg"
                                     alt="GNM Nursing">
 
                             </a>

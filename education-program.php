@@ -87,7 +87,7 @@
             overflow: hidden;
             background:
                 linear-gradient(135deg, rgba(235, 123, 19, 0.57), rgba(226, 129, 32, 0.43)),
-                url("../SS Edu Foundation New/images/banner1.jpg");
+                url("images/banner1.jpg");
             background-size: cover;
             background-position: center;
             padding: 105px 0 95px;
@@ -541,7 +541,7 @@
             background: #df8908;
              background:
                 linear-gradient(135deg, rgba(235, 123, 19, 0.57), rgba(226, 129, 32, 0.43)),
-                url("../SS Edu Foundation New/images/banner2.jpg");
+                url("images/banner2.jpg");
               background-size: cover;
               background-position: center;
               background-repeat: no-repeat;
@@ -553,7 +553,7 @@
             margin-bottom: 50px;
             /* background:
                 linear-gradient(135deg, rgba(235, 123, 19, 0.57), rgba(226, 129, 32, 0.43)),
-                url("../SS Edu Foundation New/images/banner2.jpg"); */
+                url("images/banner2.jpg"); */
         }
 
         .journey-heading span {
@@ -911,7 +911,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-01.jpg"
+                                src="images/management.jpg"
                                 alt="BBA Course">
 
                         </a>
@@ -971,7 +971,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-02.jpg"
+                                src="images/management.jpg"
                                 alt="MBA Course">
 
                         </a>
@@ -1031,7 +1031,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-03.jpg"
+                                src="images/computer-science.jpg"
                                 alt="BCA Course">
 
                         </a>
@@ -1091,7 +1091,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-04.jpg"
+                                src="images/computer-science.jpg"
                                 alt="MCA Course">
 
                         </a>
@@ -1151,7 +1151,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="../SS Edu Foundation New/images/banner1.jpg"
+                                src="images/commerce.jpg"
                                 alt="B.Com Course">
 
                         </a>
@@ -1211,7 +1211,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-06.jpg"
+                                src="images/commerce.jpg"
                                 alt="M.Com Course">
 
                         </a>
@@ -1271,7 +1271,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-07.jpg"
+                                src="images/law.jpg"
                                 alt="LLM Course">
 
                         </a>
@@ -1331,7 +1331,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-08.jpg"
+                                src="images/education.jpg"
                                 alt="BA BEd Course">
 
                         </a>
@@ -1391,7 +1391,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-24.jpg"
+                                src="images/education.jpg"
                                 alt="BEd Course">
 
                         </a>
@@ -1451,7 +1451,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-25.jpg"
+                                src="images/education.jpg"
                                 alt="MEd Course">
 
                         </a>
@@ -1511,7 +1511,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-26.jpg"
+                                src="images/education.jpg"
                                 alt="BEd JBT BSTC Course">
 
                         </a>
@@ -1571,7 +1571,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-27.jpg"
+                                src="images/physical-education.jpg"
                                 alt="BPEd Course">
 
                         </a>
@@ -1631,7 +1631,7 @@
                         <a href="course-details.php">
 
                             <img
-                                src="assets/images/course/course-28.jpg"
+                                src="images/physical-education.jpg"
                                 alt="DPed Course">
 
                         </a>
@@ -1923,7 +1923,7 @@
                 <div class="education-visual">
 
                     <img
-                        src="../SS Edu Foundation New/images/ss foundation.jpg"
+                        src="images/education.jpg"
                         alt="SS Education Foundation Students">
 
                     <div class="education-floating-card">

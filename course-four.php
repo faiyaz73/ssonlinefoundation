@@ -1,6 +1,7 @@
 <?php
 
 include('include/header.php');
+require_once __DIR__ . '/include/course-images.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -2068,7 +2069,7 @@ $displayCourses = array_slice(
                                         >
 
                                             <img
-                                                src="assets/images/course/<?= htmlspecialchars($course['image']); ?>"
+                                                src="<?= htmlspecialchars(sse_course_image($course['title'])); ?>"
                                                 alt="<?= htmlspecialchars($course['title']); ?>"
                                                 loading="lazy"
                                             >

@@ -286,7 +286,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-08.jpg"
+                                        src="images/management.jpg"
                                         alt="Public Administration Course"
                                         class="img-fluid">
 
@@ -381,7 +381,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-09.jpg"
+                                        src="images/management.jpg"
                                         alt="Major in Economics Course"
                                         class="img-fluid">
 
@@ -476,7 +476,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-10.jpg"
+                                        src="images/management.jpg"
                                         alt="Business Studies Course"
                                         class="img-fluid">
 
@@ -571,7 +571,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-32.jpg"
+                                        src="images/management.jpg"
                                         alt="Corporate Finance Course"
                                         class="img-fluid">
 
@@ -666,7 +666,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-33.jpg"
+                                        src="images/management.jpg"
                                         alt="Business Administration Course"
                                         class="img-fluid">
 
@@ -761,7 +761,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-34.jpg"
+                                        src="images/management.jpg"
                                         alt="Financial Economics Course"
                                         class="img-fluid">
 
@@ -856,7 +856,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-35.jpg"
+                                        src="images/data-science.jpg"
                                         alt="Data Science Course"
                                         class="img-fluid">
 
@@ -951,7 +951,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-36.jpg"
+                                        src="images/management.jpg"
                                         alt="System Management Course"
                                         class="img-fluid">
 
@@ -1046,7 +1046,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-37.jpg"
+                                        src="images/computer-science.jpg"
                                         alt="Computer Science Course"
                                         class="img-fluid">
 
@@ -1141,7 +1141,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-38.jpg"
+                                        src="images/fine-arts.jpg"
                                         alt="Arts in Landscape Course"
                                         class="img-fluid">
 
@@ -1236,7 +1236,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-39.jpg"
+                                        src="images/journalism.jpg"
                                         alt="Media and Communication Course"
                                         class="img-fluid">
 
@@ -1331,7 +1331,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-40.jpg"
+                                        src="images/management.jpg"
                                         alt="Design Management Course"
                                         class="img-fluid">
 

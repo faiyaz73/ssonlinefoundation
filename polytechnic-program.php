@@ -24,7 +24,7 @@
     <meta property="og:type" content="website">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../SSEDUFDN/images/favicon.png">
 
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
@@ -1416,7 +1416,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-01.jpg"
+                                    <img src="images/nursing.jpg"
                                         alt="B.Sc Nursing Course">
 
                                 </a>
@@ -1473,7 +1473,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-02.jpg"
+                                    <img src="images/pharmacy.jpg"
                                         alt="B Pharmacy Course">
 
                                 </a>
@@ -1530,7 +1530,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-03.jpg"
+                                    <img src="images/medical-lab.jpg"
                                         alt="Medical Lab Technology">
 
                                 </a>
@@ -1587,7 +1587,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-04.jpg"
+                                    <img src="images/computer-science.jpg"
                                         alt="Computer Science Diploma">
 
                                 </a>
@@ -1644,7 +1644,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-05.jpg"
+                                    <img src="images/mechanical-engineering.jpg"
                                         alt="Mechanical Diploma">
 
                                 </a>
@@ -1701,7 +1701,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-06.jpg"
+                                    <img src="images/agriculture.jpg"
                                         alt="Agriculture Diploma">
 
                                 </a>

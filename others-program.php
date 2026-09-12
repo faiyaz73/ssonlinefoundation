@@ -28,9 +28,7 @@
     <meta property="og:type" content="website">
 
     <!-- Favicon -->
-    <link rel="shortcut icon"
-        type="image/x-icon"
-        href="assets/images/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../SSEDUFDN/images/favicon.png">
 
 
     <!--=====================================-->
@@ -1124,7 +1122,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-01.jpg"
+                                    <img src="images/agriculture.jpg"
                                         alt="B.Sc Agriculture">
 
                                 </a>
@@ -1198,7 +1196,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-02.jpg"
+                                    <img src="images/law.jpg"
                                         alt="BA LLB">
 
                                 </a>
@@ -1272,7 +1270,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-03.jpg"
+                                    <img src="images/law.jpg"
                                         alt="B.Com LLB">
 
                                 </a>
@@ -1346,7 +1344,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-04.jpg"
+                                    <img src="images/fashion-designing.jpg"
                                         alt="Fashion Designing">
 
                                 </a>
@@ -1420,7 +1418,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-05.jpg"
+                                    <img src="images/fine-arts.jpg"
                                         alt="Bachelor of Fine Arts">
 
                                 </a>
@@ -1494,7 +1492,7 @@
 
                                 <a href="course-details.php">
 
-                                    <img src="assets/images/course/course-06.jpg"
+                                    <img src="images/hotel-management.jpg"
                                         alt="Hotel Management">
 
                                 </a>

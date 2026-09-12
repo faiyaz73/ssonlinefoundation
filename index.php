@@ -412,7 +412,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-07.jpg" alt="Course Meta">
+                                        <img src="images/journalism.jpg" alt="Starting SEO as your Home Based Business">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>4 Weeks</span>
@@ -478,7 +478,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-04.jpg" alt="Course Meta">
+                                        <img src="images/software-engineering.jpg" alt="Java Programming Masterclass for Software Developers">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>3 Weeks</span>
@@ -544,7 +544,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-05.jpg" alt="Course Meta">
+                                        <img src="images/education.jpg" alt="Building A Better World One Student At A Time">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>8 Weeks</span>
@@ -610,7 +610,7 @@
                             <div class="inner">
                                 <div class="thumbnail">
                                     <a href="course-details.html">
-                                        <img src="assets/images/course/course-06.jpg" alt="Course Meta">
+                                        <img src="images/management.jpg" alt="Master Your Personal Brand Like a Marketing Pro">
                                     </a>
                                     <div class="time-top">
                                         <span class="duration"><i class="icon-61"></i>6 Weeks</span>

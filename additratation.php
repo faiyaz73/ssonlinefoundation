@@ -8,7 +8,7 @@
 
     <!-- Background Video -->
     <video class="hero-video" autoplay muted loop playsinline preload="auto">
-        <source src="../SS Edu Foundation New/images/video.mp4" type="video/mp4">
+        <source src="images/video.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
@@ -62,12 +62,12 @@
             <div class="about-images">
 
                 <div class="about-img about-img-one">
-                    <img src="../SS Edu Foundation New/images/ss.png"
+                    <img src="../SSEDUFDN/images/ssfo.png"
                          alt="SS Education Foundation Students">
                 </div>
 
                 <div class="about-img about-img-two">
-                    <img src="../SS Edu Foundation New/images/junior.jpg"
+                    <img src="../SSEDUFDN/images/ss2.png"
                          alt="SS Education Foundation Education">
                 </div>
 

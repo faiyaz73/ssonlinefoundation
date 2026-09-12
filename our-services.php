@@ -24,6 +24,7 @@
     <meta name="twitter:image" content="https://mobilise.co.in/images/twittercard.png">
     <!-- Canonical URL -->
     <link rel="canonical" href="https://sseducationsfoundation.com/our-services.php">
+     <link rel="shortcut icon" type="image/x-icon" href="../SSEDUFDN/images/favicon.png">
     <!-- Schema.org Markup -->
 <script type="application/ld+json">
 {

@@ -41,7 +41,7 @@
         content="Explore career-oriented B.Tech, M.Tech and Information Technology programs at SS Education Foundation.">
 
     <meta property="og:image"
-        content="assets/images/course/course-08.jpg">
+        content="images/engineering.jpg">
 
     <meta property="og:url"
         content="https://sseducationsfoundation.com/">
@@ -67,7 +67,7 @@
         content="Explore B.Tech, M.Tech and Information Technology courses at SS Education Foundation.">
 
     <meta name="twitter:image"
-        content="assets/images/course/course-08.jpg">
+        content="images/engineering.jpg">
 
 
     <!-- =========================================
@@ -76,6 +76,7 @@
 
     <link rel="canonical"
         href="https://sseducationsfoundation.com/">
+         <link rel="shortcut icon" type="image/x-icon" href="../SSEDUFDN/images/favicon.png">
 
 
     <!-- =========================================
@@ -238,7 +239,7 @@
 
                 <img
                     data-depth="2"
-                    src="assets/images/about/shape-13.png"
+                    src="images/eng1.jpg"
                     alt="Decorative Shape">
 
             </li>
@@ -248,7 +249,7 @@
 
                 <img
                     data-depth="-2"
-                    src="assets/images/about/shape-15.png"
+                    src="images/eng2.jpg"
                     alt="Decorative Shape">
 
             </li>
@@ -263,7 +264,7 @@
 
                 <img
                     data-depth="2"
-                    src="assets/images/about/shape-07.png"
+                    src="images/eng3.jpg"
                     alt="Decorative Shape">
 
             </li>
@@ -339,7 +340,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-08.jpg"
+                                        src="images/computer-science.jpg"
                                         alt="B.Tech Computer Science"
                                         class="img-fluid">
 
@@ -426,7 +427,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-09.jpg"
+                                        src="images/artificial-intelligence.jpg"
                                         alt="B.Tech Artificial Intelligence"
                                         class="img-fluid">
 
@@ -512,7 +513,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-10.jpg"
+                                        src="images/data-science.jpg"
                                         alt="B.Tech Data Science"
                                         class="img-fluid">
 
@@ -598,7 +599,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-32.jpg"
+                                        src="images/cyber-security.jpg"
                                         alt="B.Tech Cyber Security"
                                         class="img-fluid">
 
@@ -684,7 +685,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-33.jpg"
+                                        src="images/rf-microwave.jpg"
                                         alt="B.Tech RF Microwave"
                                         class="img-fluid">
 
@@ -770,7 +771,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-34.jpg"
+                                        src="images/civil-engineering.jpg"
                                         alt="B.Tech Civil Engineering"
                                         class="img-fluid">
 
@@ -856,7 +857,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-35.jpg"
+                                        src="images/electrical-engineering.jpg"
                                         alt="Electrical and Electronics Engineering"
                                         class="img-fluid">
 
@@ -942,7 +943,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-36.jpg"
+                                        src="images/mechanical-engineering.jpg"
                                         alt="Mechanical Engineering"
                                         class="img-fluid">
 
@@ -1028,7 +1029,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-37.jpg"
+                                        src="images/aerospace-engineering.jpg"
                                         alt="Aerospace Engineering"
                                         class="img-fluid">
 
@@ -1114,7 +1115,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-38.jpg"
+                                        src="images/bioinformatics.jpg"
                                         alt="Bioinformatics"
                                         class="img-fluid">
 
@@ -1200,7 +1201,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-39.jpg"
+                                        src="images/biomedical-engineering.jpg"
                                         alt="Biomedical Engineering"
                                         class="img-fluid">
 
@@ -1286,7 +1287,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-40.jpg"
+                                        src="images/biotechnology.jpg"
                                         alt="Biotechnology"
                                         class="img-fluid">
 
@@ -1372,7 +1373,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-08.jpg"
+                                        src="images/chemical-engineering.jpg"
                                         alt="Chemical Engineering"
                                         class="img-fluid">
 
@@ -1458,7 +1459,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-09.jpg"
+                                        src="images/electronics.jpg"
                                         alt="Electronics and Communication Engineering"
                                         class="img-fluid">
 
@@ -1544,7 +1545,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-10.jpg"
+                                        src="images/instrumentation.jpg"
                                         alt="Electronics and Instrumentation Engineering"
                                         class="img-fluid">
 
@@ -1630,7 +1631,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-32.jpg"
+                                        src="images/food-engineering.jpg"
                                         alt="Food Process Engineering"
                                         class="img-fluid">
 
@@ -1716,7 +1717,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-33.jpg"
+                                        src="images/information-technology.jpg"
                                         alt="Information Technology"
                                         class="img-fluid">
 
@@ -1802,7 +1803,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-34.jpg"
+                                        src="images/instrumentation.jpg"
                                         alt="Instrumentation and Control Engineering"
                                         class="img-fluid">
 
@@ -1888,7 +1889,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-35.jpg"
+                                        src="images/nanotechnology.jpg"
                                         alt="Nanotechnology"
                                         class="img-fluid">
 
@@ -1974,7 +1975,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-36.jpg"
+                                        src="images/software-engineering.jpg"
                                         alt="Software Engineering"
                                         class="img-fluid">
 
@@ -2060,7 +2061,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-37.jpg"
+                                        src="images/aerospace-engineering.jpg"
                                         alt="Aeronautics Engineering"
                                         class="img-fluid">
 
@@ -2146,7 +2147,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-38.jpg"
+                                        src="images/petroleum-engineering.jpg"
                                         alt="Petroleum Engineering"
                                         class="img-fluid">
 
@@ -2232,7 +2233,7 @@
                                 <a href="course-details.php">
 
                                     <img
-                                        src="assets/images/course/course-39.jpg"
+                                        src="images/information-technology.jpg"
                                         alt="B.Sc Information Technology"
                                         class="img-fluid">
 
