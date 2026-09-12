@@ -47,9 +47,9 @@
                         <div class="header-top-right">
                             <ul class="header-info">
                                
-                                <li><a href="tel:+011235641231"><i class="icon-phone"></i>Call: +91 7351786787</a></li>
-                                <li><a href="tel:+011235641231"><i class="icon-phone"></i>Call: +91 9837785785</a></li>
-                                <li><a href="mailto:info@edublink.com" target="_blank"><i class="icon-envelope"></i>Email: info@sseducationsfoundation.com</a></li>
+                                <li><a href="tel:+917351786787"><i class="icon-phone"></i>Call: +91 7351786787</a></li>
+                                <li><a href="tel:+919837785785"><i class="icon-phone"></i>Call: +91 9837785785</a></li>
+                                <li><a href="mailto:info@sseducationsfoundation.com" target="_blank"><i class="icon-envelope"></i>Email: info@sseducationsfoundation.com</a></li>
                                 <li class="social-icon">
                                     <a href="#"><i class="icon-facebook"></i></a>
                                     <a href="#"><i class="icon-instagram"></i></a>

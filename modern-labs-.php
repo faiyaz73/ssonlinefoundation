@@ -1207,7 +1207,7 @@
                     <div class="image-placeholder">
 
                         <div class="placeholder-icon">
-                            💻
+                        💻 
                         </div>
 
                     </div>
@@ -1268,7 +1268,7 @@
                 <div class="showcase-image">
 
                     <div class="image-placeholder">
-
+                        
                         <div class="placeholder-icon">
                             🔬
                         </div>
