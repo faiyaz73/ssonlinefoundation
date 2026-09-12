@@ -1144,7 +1144,7 @@ $displayCourses = array_slice(
 }
 
 .course-intro-heading p {
-    color: #737373;
+    color:rgb(42, 169, 17);
     font-size: 16px;
     line-height: 1.8;
 }
