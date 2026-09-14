@@ -1028,7 +1028,7 @@
                     data-sal="slide-up"
                     data-sal-duration="1200">
 
-                    <a href="courses.php" class="edu-btn">
+                    <a href="all-courses.php" class="edu-btn">
                         View All Courses
                         <i class="icon-4"></i>
                     </a>

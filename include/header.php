@@ -80,9 +80,9 @@
                                             <a href="#"><i class="icon-1"></i>Courses</a>
                                          <ul class="submenu">
                                             <li><a href="all-courses.php">All Courses</a></li>
-                                            <li class="has-droupdown"><a href="technical-program.php">Course</a>
+                                            <!-- <li class="has-droupdown"><a href="technical-program.php">Course</a>
                                                
-                                            </li>
+                                            </li> -->
                                             <li class="has-droupdown"><a href="management-program.php">Management Course</a>
                                                
                                             <li class="has-droupdown"><a href="law-program.php">Law Program

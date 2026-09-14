@@ -166,7 +166,7 @@
 
                                 <div class="banner-btn">
 
-                                    <a href="courses.php"
+                                    <a href="all-courses.php"
                                         class="edu-btn btn-secondary">
 
                                         Explore Courses
@@ -222,7 +222,7 @@
 
                                 <div class="banner-btn">
 
-                                    <a href="courses.php"
+                                    <a href="all-courses.php"
                                         class="edu-btn btn-secondary">
 
                                         View Programs
@@ -1052,7 +1052,7 @@
 
             <div class="edu-text-center mt-5">
 
-                <a href="courses.php"
+                <a href="all-courses.php"
                     class="edu-btn btn-secondary">
 
                     View All Courses

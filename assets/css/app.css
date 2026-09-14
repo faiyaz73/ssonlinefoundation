@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;family=Spartan:wght@400;500;600;700;800&amp;display=swap);
 
 :root {
-    --color-primary: #1ab69d;
-    --color-secondary: #ee4a62;
+    --color-primary: #D2AA5B;
+    --color-secondary: #D2AA5B;
     --color-textSecondary: #ff5b5c;
     --color-tertiary: #f8b81f;
     --color-dark: #111212;
@@ -11,7 +11,7 @@
     --color-border: #e5e5e5;
     --dark-color-border: #282f3a;
     --color-body: gray;
-    --gradient-primary: linear-gradient(-90deg, #31b978 0%, #1ab69d 100%);
+    --gradient-primary: linear-gradient(-90deg, #b15205 0%, #e7910f 100%);
     --bg-color: #EAF0F2;
     --dark-bg-color: #020b17;
     --cta-color-bg: #F0F4F5;
@@ -28,7 +28,7 @@
     --color-lighten02: #edf5f8;
     --color-lighten03: #f5f1eb;
     --color-lighten04: #f7f5f2;
-    --color-extra01: #0ecd73;
+    --color-extra01: #D2AA5B;
     --color-extra02: #8e56ff;
     --color-extra03: #f92596;
     --color-extra04: #5866eb;
@@ -39,7 +39,7 @@
     --color-extra09: #525151;
     --color-extra10: #404040;
     --color-extra11: #22272e;
-    --color-success: #3EB75E;
+    --color-success: #D2AA5B;
     --color-danger: #FF0003;
     --color-warning: #FF8F3C;
     --color-info: #1BA2DB;
@@ -15506,8 +15506,8 @@ body .tpd-size-medium .tpd-content {
 }
 
 .features-area-2 {
-    background: -webkit-linear-gradient(right, #31b978 0%, #1ab69d 100%);
-    background: linear-gradient(-90deg, #31b978 0%, #1ab69d 100%)
+    background: -webkit-linear-gradient(right, #ae5303 0%, #8e4d02 100%);
+    background: linear-gradient(-90deg, #a55204 0%, #e18102 100%)
 }
 
 .features-area-3 .features-grid-wrap {
@@ -15620,9 +15620,11 @@ body .tpd-size-medium .tpd-content {
     width: 100%
 }
 
+
+
 .edu-gallery-grid .thumbnail::before {
-    background: -webkit-linear-gradient(235deg, #31b978 0%, #1ab69d 100%);
-    background: linear-gradient(-145deg, #31b978 0%, #1ab69d 100%);
+    background: -webkit-linear-gradient(235deg, #aa6703 0%, #753a02 100%);
+    background: linear-gradient(-145deg, #924302 0%, #eb610b 100%);
     border-radius: 5px;
     position: absolute;
     content: "";
@@ -42061,3 +42063,21 @@ html[dir="rtl"] .swiper-testimonial-slider-wrapper .swiper-slide.swiper-slide-vi
     margin-right: 40px;
     box-shadow: 70px 0 50px 0 rgba(26, 46, 85, .1)
 }
+
+.hero-headling{
+    font-size: 40px;
+    font-weight: 800;
+}
+.gap-top-equal{
+    margin-bottom:70px;
+}
+
+
+
+
+<style>
+@keyframes scroll {
+  0% { transform:translateX(0); }
+  100% { transform:translateX(-100%); }
+}
+</style>

@@ -1083,13 +1083,29 @@
                     $courseFee = htmlspecialchars($course['fee'], ENT_QUOTES, 'UTF-8');
                     $courseImagePath = sse_course_image($course['name']);
                     $courseImage = htmlspecialchars($courseImagePath . '?v=2', ENT_QUOTES, 'UTF-8');
+                    $courseLink = 'all-courses.php';
+                    if (stripos($course['name'], 'journalism') !== false || stripos($course['name'], 'bjmc') !== false) {
+                        $courseLink = 'bachaler-journlizm.php';
+                    } elseif ($course['category'] === 'Engineering Courses') {
+                        $courseLink = 'technical-program.php';
+                    } elseif ($course['category'] === 'Paramedical Course') {
+                        $courseLink = 'pra-medical-program.php';
+                    } elseif ($course['category'] === 'Diploma') {
+                        $courseLink = 'polytechnic-program.php';
+                    } elseif ($course['category'] === 'Non-Technical Courses') {
+                        $courseLink = 'others-program.php';
+                    } elseif ($course['category'] === 'Education & Other') {
+                        $courseLink = 'education-program.php';
+                    }
                     $delay = 100 + (($index % 4) * 50);
                 ?>
                 <div class="col-md-6 col-lg-4 col-xl-3" data-sal-delay="<?= $delay; ?>" data-sal="slide-up" data-sal-duration="800">
                     <div class="edu-course course-style-1 course-box-shadow hover-button-bg-white">
                         <div class="inner">
                             <div class="thumbnail">
-                            <img src="<?= $courseImage; ?>" alt="<?= $courseName; ?>">
+                            <a href="<?= $courseLink; ?>">
+                                <img src="<?= $courseImage; ?>" alt="<?= $courseName; ?>">
+                            </a>
 
                                 
                                 <div class="time-top">
@@ -1099,7 +1115,7 @@
                             <div class="content">
                                 <span class="course-level"><?= $courseCategory; ?></span>
                                 <h6 class="title">
-                                    <?= $courseName; ?>
+                                    <a href="<?= $courseLink; ?>"><?= $courseName; ?></a>
                                 </h6>
                                 <div class="course-price-block">
                                     <div class="course-price-row">
@@ -1124,7 +1140,7 @@
                                 </button>
                                 <span class="course-level"><?= $courseCategory; ?></span>
                                 <h6 class="title">
-                                    <?= $courseName; ?>
+                                    <a href="<?= $courseLink; ?>"><?= $courseName; ?></a>
                                 </h6>
                                 <div class="course-price-block">
                                     <div class="course-price-row">

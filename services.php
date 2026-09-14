@@ -179,4 +179,4 @@
     </div>
   </section>
 </main>
-<?php include 'include/footer.php'; ?>  -->
+<?php include 'include/footer.php'; ?>

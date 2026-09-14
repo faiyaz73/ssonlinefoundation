@@ -108,7 +108,7 @@
 
                                 <div class="banner-btn">
 
-                                    <a href="courses.php"
+                                    <a href="all-courses.php"
                                         class="edu-btn btn-secondary">
                                         Explore Courses
                                         <i class="icon-4"></i>
@@ -145,7 +145,7 @@
 
                                 <div class="banner-btn">
 
-                                    <a href="courses.php"
+                                    <a href="all-courses.php"
                                         class="edu-btn btn-secondary">
                                         View Paramedical Courses
                                         <i class="icon-4"></i>
@@ -182,7 +182,7 @@
 
                                 <div class="banner-btn">
 
-                                    <a href="courses.php"
+                                    <a href="all-courses.php"
                                         class="edu-btn btn-secondary">
                                         Explore Diploma Courses
                                         <i class="icon-4"></i>
@@ -1363,7 +1363,7 @@
 
             <div class="edu-text-center mt-5">
 
-                <a href="courses.php"
+                <a href="all-courses.php"
                     class="edu-btn btn-secondary">
                     View All Courses
                     <i class="icon-4"></i>
